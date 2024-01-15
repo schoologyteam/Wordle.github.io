@@ -152,7 +152,6 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Wordle-RO](https://wordle-ro.sirb.net/): Romanian
 - [Wortel](https://wortel.wrintiewaar.co.za): Afrikaans
 - [Wörtchen](https://woertchen.sofacoach.de): German
-- [SGWordle](https://sgwordle.now.sh/): Swiss German
 - [kelma.mt](https://kelma.mt): Maltese
 - [Žodelė](https://zodele.lt): Lithuanian
 - [Слівце](https://slivce.com/): Ukrainian
@@ -182,7 +181,6 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Harry Potter](https://www.harrypotterwordle.com/): Harry Potter
 - [JoJodle](https://jojo-news.com/fun/jojodle/): JoJo’s Bizarre Adventure
 - [Mahjong Handle](https://mahjong-handle.update.sh/): Mahjong Hands
-- [Filmle](https://filmle.now.sh/): Movie titles
 - [Fletcherdle](https://www.fletcherdle.com/): American singer-songwriter FLETCHER
 - [Foodle](https://foodle.io/): Food themed Wordle
 - [Lyricle](https://www.lyricle.app/): Lyrics
@@ -196,8 +194,6 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Polygonle](https://www.polygonle.com/): Wordle with a shape-based clue for each character
 - [Quettale](https://quettale.vercel.app/): Quenya, Elven language in LOTR
 - [Radiole](https://radiole.vercel.app/): Radio-themed (for World Radio Day)
-- [RareWordle](https://rwordle.vercel.app/): Word guessing with multiple simultaneous solutions of varying "values", all created from the same letters. The goal is to find the most obscure solution. It is inspired by the TV game show Pointless.
-- [Reverdle](https://reverdle.now.sh/): Wordle but in reverse, that is one has to make as many guesses possible which do not have any green letter (i.e. a letter in the correct location compared to the hidden solution).
 - [Spotle](https://spotlegame.co.uk): Wordle with an extra block, the incognito block
 - [Squirdle](https://squirdle-inky.vercel.app/): Pokeman
 - [Tacticle](https://tacticle.co/): Chess puzzles
