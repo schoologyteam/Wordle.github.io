@@ -148,7 +148,7 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Vārdulis](https://wordle.lielakeda.lv/): Latvian
 - [Wokle](https://wokle.njamed.com/): Bininj Kunwok
 - [Word-leh!](https://word-leh.com): Singlish
-- [Wordle (BOS)](https://elahmo.github.io/wordle/): Bosnian
+- [Bukvar - Wordle (BOS)](https://elahmo.github.io/bukvar/): Bosnian
 - [Wordle (Spanish)](https://wordle-es.xavier.cc): Spanish/Espanol
 - [Wordle-RO](https://wordle-ro.sirb.net/): Romanian
 - [Wortel](https://wortel.wrintiewaar.co.za): Afrikaans
