@@ -117,10 +117,7 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Boludle](https://www.boludle.com/): Argentinian
 - [Gerdle](https://gerdle.vext.co.uk/): Cornish (Kernowek)
 - [Ijambo](https://www.ijambo.app/): Kirundi (spoken in Burundi)
-- [Jwordle](https://jwordle.vercel.app/): Japanese
 - [Katadel](https://katadel.vercel.app/): Jawi (Malay Arabic script)
-- [Keclap](https://keclap.xyz/): Sundanese
-- [Kelmaly](https://kelmaly.com/): Arabic
 - [Kerdle](https://kerdle.vercel.app/): Cornish/Kernewek (Standard Written Form)
 - [Labzle](https://labzle.netlify.app): Balochi
 - [Latindictionary.io](https://wordle.latindictionary.io/): Latin
@@ -159,7 +156,6 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [ਪੰਜਾਬੀ](https://punjabipuzzle.netlify.app/): Punjabi
 - [字知之明](https://zedaizd.github.io/zh-char-puzzle/): Traditional Chinese
 - [꼬들 - 한국어](https://belorin.github.io/): Korean
-- [한글 풀어쓰기 5자](https://nakosung.github.io/wordle/): Korean
 - [ไทย](https://buddhistuniversity.net/wordle-thai/): Thai
 - [சொல்லாடல்](https://omtamil.com/soladle/): Tamil
 
@@ -186,7 +182,6 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Foodle](https://foodle.io/): Food themed Wordle
 - [Lyricle](https://www.lyricle.app/): Lyrics
 - [Midnightle](https://midnightle.flra.eu): Taylor Swift's Midnights album
-- [Movie Wordle](https://movie-wordle.vercel.app): Bollywood
 - [Murdle](https://murdle.vercel.app/): Spooky hangman mashup
 - [Octordle Unlimited](https://dailypuzzles.com/games/octordle-unlimited): Octordle Unlimited
 - [Pawnle](https://pawnle.vercel.app/): Parks and Recreation
@@ -197,12 +192,10 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Radiole](https://radiole.vercel.app/): Radio-themed (for World Radio Day)
 - [Spotle](https://spotlegame.co.uk): Wordle with an extra block, the incognito block
 - [Squirdle](https://squirdle-inky.vercel.app/): Pokeman
-- [Tacticle](https://tacticle.co/): Chess puzzles
 - [Taylordle](https://www.taylordle.org/): Taylor Swift
 - [Trekle](https://treklegame.com): Star Trek
 - [Turdle](https://turdle.xyz): Make the turtle jump!
 - [Weedel](https://meetmeinouter.space/wordle/): Video game characters
-- [Wordle.cl](https://www.wordle.cl): Chilean modisms, cities, places
 - [Wordle Unlimited](https://wordleunlimited.co/): Wordle Unlimited
 - [Wrdl](https://wrdl-abae.vercel.app/): Words that are 5 letters long after getting rid of their vowels
 - [WROUD](https://www.wroud.net/): W R O U D is a simple word game that challenges people to find a six-letter word in 3 guesses from a cloud of letters.
