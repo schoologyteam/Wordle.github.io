@@ -1,6 +1,6 @@
-# React Wordle
+# Reactle
 
-This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
+This is an open-source option for building word guessing games! Made using React, Typescript, and Tailwind.
 
 [**Try out the demo!**](https://reactle.vercel.app/)
 
@@ -11,7 +11,7 @@ This is a clone project of the popular word guessing game we all know and love. 
 Clone the repository and perform the following command line actions:
 
 ```bash
-$> cd react-wordle
+$> cd reactle
 $> npm install
 $> npm run start
 ```
@@ -112,15 +112,12 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 
 ### Other languages
 
-- [Arwordle](https://arwordle.netlify.app/): Arabic
+- [Ar](https://arwordle.netlify.app/): Arabic
 - [BerSüz](https://wordletatar.vercel.app/): Tatar
 - [Boludle](https://www.boludle.com/): Argentinian
 - [Gerdle](https://gerdle.vext.co.uk/): Cornish (Kernowek)
 - [Ijambo](https://www.ijambo.app/): Kirundi (spoken in Burundi)
-- [Jwordle](https://jwordle.vercel.app/): Japanese
 - [Katadel](https://katadel.vercel.app/): Jawi (Malay Arabic script)
-- [Keclap](https://keclap.xyz/): Sundanese
-- [Kelmaly](https://kelmaly.com/): Arabic
 - [Kerdle](https://kerdle.vercel.app/): Cornish/Kernewek (Standard Written Form)
 - [Labzle](https://labzle.netlify.app): Balochi
 - [Latindictionary.io](https://wordle.latindictionary.io/): Latin
@@ -148,7 +145,7 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Vārdulis](https://wordle.lielakeda.lv/): Latvian
 - [Wokle](https://wokle.njamed.com/): Bininj Kunwok
 - [Word-leh!](https://word-leh.com): Singlish
-- [Wordle (BOS)](https://elahmo.github.io/wordle/): Bosnian
+- [Bukvar - Wordle (BOS)](https://elahmo.github.io/bukvar/): Bosnian
 - [Wordle (Spanish)](https://wordle-es.xavier.cc): Spanish/Espanol
 - [Wordle-RO](https://wordle-ro.sirb.net/): Romanian
 - [Wortel](https://wortel.wrintiewaar.co.za): Afrikaans
@@ -159,7 +156,6 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [ਪੰਜਾਬੀ](https://punjabipuzzle.netlify.app/): Punjabi
 - [字知之明](https://zedaizd.github.io/zh-char-puzzle/): Traditional Chinese
 - [꼬들 - 한국어](https://belorin.github.io/): Korean
-- [한글 풀어쓰기 5자](https://nakosung.github.io/wordle/): Korean
 - [ไทย](https://buddhistuniversity.net/wordle-thai/): Thai
 - [சொல்லாடல்](https://omtamil.com/soladle/): Tamil
 
@@ -170,40 +166,37 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Anidal](https://anidal-abrarhayat.web.app/): Animals
 - [Birdle - Emojis](https://birdle.dev): Bird emojis
 - [Birdle](https://www.creek-birdle.com/): Birds
-- [Bluedle](https://bluedle.games/): Bluey based Wordle
+- [Bluedle](https://bluedle.games/): Bluey based
 - [Buildly](https://buildly.procurepro.co/): Construction themed
-- [Canuckle](https://canuckle.net/): Canadian themed Wordle
+- [Canuckle](https://canuckle.net/): Canadian themed
 - [Crosswordle](https://crosswordle.mekoppe.com/): Crossword mashup
 - [DALL-e-dle](https://dall-e-dle.vercel.app/): Provides a DALL-E generated image of the word as a clue
 - [Discwordle](https://discwordle.marcschulder.de/): Terry Pratchett's Discworld
 - [Dundle](https://dundle.dunmiffcord.com/): The Office
 - [FFXIVrdle](https://ffxivrdle.com/): Final Fantasy XIV
-- [Harderdl](https://helq.github.io/harderdl): For those who find Wordle too easy (might need pen and paper to solve)
+- [Harderdl](https://helq.github.io/harderdl): For those who find too easy (might need pen and paper to solve)
 - [Harry Potter](https://www.harrypotterwordle.com/): Harry Potter
 - [JoJodle](https://jojo-news.com/fun/jojodle/): JoJo’s Bizarre Adventure
 - [Mahjong Handle](https://mahjong-handle.update.sh/): Mahjong Hands
 - [Fletcherdle](https://www.fletcherdle.com/): American singer-songwriter FLETCHER
-- [Foodle](https://foodle.io/): Food themed Wordle
+- [Foodle](https://foodle.io/): Food themed
 - [Lyricle](https://www.lyricle.app/): Lyrics
 - [Midnightle](https://midnightle.flra.eu): Taylor Swift's Midnights album
-- [Movie Wordle](https://movie-wordle.vercel.app): Bollywood
 - [Murdle](https://murdle.vercel.app/): Spooky hangman mashup
 - [Octordle Unlimited](https://dailypuzzles.com/games/octordle-unlimited): Octordle Unlimited
 - [Pawnle](https://pawnle.vercel.app/): Parks and Recreation
 - [Poker Handle](https://kikychow.github.io/poker-wordle/): Poker
 - [Poker Handle 2](https://poker-handle2.vercel.app/): Poker
-- [Polygonle](https://www.polygonle.com/): Wordle with a shape-based clue for each character
+- [Polygonle](https://www.polygonle.com/): Shape-based clue for each character
 - [Quettale](https://quettale.vercel.app/): Quenya, Elven language in LOTR
 - [Radiole](https://radiole.vercel.app/): Radio-themed (for World Radio Day)
-- [Spotle](https://spotlegame.co.uk): Wordle with an extra block, the incognito block
+- [Spotle](https://spotlegame.co.uk): With an extra "incognito" block
 - [Squirdle](https://squirdle-inky.vercel.app/): Pokeman
-- [Tacticle](https://tacticle.co/): Chess puzzles
 - [Taylordle](https://www.taylordle.org/): Taylor Swift
 - [Trekle](https://treklegame.com): Star Trek
 - [Turdle](https://turdle.xyz): Make the turtle jump!
 - [Weedel](https://meetmeinouter.space/wordle/): Video game characters
-- [Wordle.cl](https://www.wordle.cl): Chilean modisms, cities, places
-- [Wordle Unlimited](https://wordleunlimited.co/): Wordle Unlimited
+- [Wordle Unlimited](https://wordleunlimited.co/): Unlimited
 - [Wrdl](https://wrdl-abae.vercel.app/): Words that are 5 letters long after getting rid of their vowels
 - [WROUD](https://www.wroud.net/): W R O U D is a simple word game that challenges people to find a six-letter word in 3 guesses from a cloud of letters.
 - [香港麻雀 糊 dle](https://hkwudle.vercel.app/): Mahjong hands under Hong Kong rules
@@ -227,9 +220,9 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Passwordle](https://passwordle.sp8c3.com/): Passwords
 - [Perfdle](https://perfdle.com): Performance Testers and Engineers, DevOps, and Observability
 - [Primel](https://converged.yt/primel/): Prime numbers
-- [Qwordle](https://qwordle.bhat.ca/): Quantum version of Wordle (uses entangled word-pairs)
+- [Qwordle](https://qwordle.bhat.ca/): Quantum version (uses entangled word-pairs)
 - [Quantle](https://deduckproject.github.io/quantle/): Another quantum variant where guesses are quantum equations
-- [Rundle](https://furstenheim.github.io/react-wordle/): Like wordle, but only last three guesses are considered.
+- [Rundle](https://furstenheim.github.io/react-wordle/): Only last three guesses are considered.
 - [Stockle](https://stockle.win/): Guess the stock or ETF
 - [Syscordle](https://nezza.github.io/syscordle/): SYSCALL
 - [UNLOCOdle](https://unlocodle.collabital.com/): UNLOCODEs
