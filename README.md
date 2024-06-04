@@ -1,6 +1,6 @@
 # Wordle Clone
 
-- Go play the real Wordle [here](https://www.powerlanguage.co.uk/wordle/)
+- Go play the real Wordle [here](https://www.nytimes.com/games/wordle/index.html)
 - Read the story behind it [here](https://www.nytimes.com/2022/01/03/technology/wordle-word-game-creator.html)
 - Try a demo of this clone project [here](https://61dc4dbf9f2b9d0007925c02--thirsty-hoover-08af60.netlify.app/)
 
